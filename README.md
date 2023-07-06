@@ -1,6 +1,8 @@
 - 👋🏻 Hi, I'm Arsum, a machine learning enthusiast who loves working with data and building cool stuff with real application.
-- 🔭 I’m currently working on Natural Language Processing through my internship at Inabia Solutions and Consulting Inc.
-- 🎓 I’m currently pursuing a Bachelors of Science double major in Computer Science and Mathematics at Pomona College.
-- 👀 I’m an upcoming Silicon Valley Program Scholar at Claremont Mckenna to pursue industry experience in the Bay.
+- 👀 Fall 2023: I’m an upcoming Silicon Valley Program Scholar at Claremont Mckenna to pursue industry experience in the Bay.
+- 🔭 Summer 2023, I'm working on Large Language Models a category of Natural Language Processing through my internship at Inabia Solutions & Consulting Inc.
+- 🎓 Currently, I'm pursuing a Bachelors of Science double major in Computer Science and Mathematics at Pomona College.
+- 🧠 Spring 2023, I worked on training ML Models to detect fraud in financial transactions as part of p-fraud @ P-ai, Claremont Colleges AI Club.
+- 🍿 Career aside, I make music on my flute, do fitness, play tennis, and read out of currciulum.
+- 🍀 Fun fact is I love both the mountains and the beach.
 - 📫 Reach out at arsumnadeemch16203@gmail.com
-- ⚡ Fun fact is I love both the mountains and the beach.
