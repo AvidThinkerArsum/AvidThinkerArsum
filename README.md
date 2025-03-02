@@ -64,7 +64,7 @@
           <tr>
             <td>
               <a href="https://arsumnc.com/">
-                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
+                <img src="Screenshot%202025-02-26%20at%209.09.21%20AM.png" width="40px"/>
               </a>
             </td>
           </tr>
@@ -101,6 +101,10 @@
           <tr>
             <td><img src="https://cdn-icons-png.flaticon.com/128/3207/3207130.png" width="30px"/></td>
             <td>📝 I enjoy writing & storytelling</td>
+          </tr>
+          <tr>
+            <td><img src="https://cdn-icons-png.flaticon.com/128/616/616430.png" width="30px"/></td>
+            <td>🐱 I've four cats</td>
           </tr>
         </table>
       </td>
