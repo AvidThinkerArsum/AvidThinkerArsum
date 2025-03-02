@@ -20,8 +20,10 @@
 </table>
 
 ---
+<p align="center">
+  ## 📊 GitHub Stats & Achievements  
+</p>p
 
-## 📊 GitHub Stats & Achievements  
 
 <table>
   <tr>
