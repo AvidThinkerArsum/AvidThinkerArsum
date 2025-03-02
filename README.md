@@ -48,7 +48,6 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left Column: Social Icons (Now Vertical) -->
       <td align="center" width="30%">
         <a href="https://linkedin.com/in/arsum">
           <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
@@ -66,8 +65,6 @@
           <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
         </a>
       </td>
-
-      <!-- Right Column: Fun Facts -->
       <td align="left" width="70%">
         <ul>
           <li>🎵 I play the flute & make music</li>
