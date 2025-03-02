@@ -121,7 +121,7 @@
 
 <h2 align="center"> 🔥 GitHub Stats </h2>
 
-[![AvidThinkerArsum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AvidThinkerArsum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
@@ -139,10 +139,6 @@
 </table>
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue&style=flat-square" alt="profile views" />
-</p>
 
 <div align="center">
   
