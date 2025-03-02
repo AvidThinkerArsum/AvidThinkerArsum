@@ -115,11 +115,10 @@
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
 
-<h2 align="center">🌆 3D GitHub Contribution Graph</h2>
-
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepository/blob/main/skyline.png" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AvidThinkerArsum&theme=dark&utcOffset=8" alt="GitHub Contribution Circle"/>
 </p>
+
 
 
 
