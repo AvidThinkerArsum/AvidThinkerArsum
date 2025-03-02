@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm Arsum Nadeem Chaudhary! </h1>
 
-<align="center" ![Profile Views](https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue)  >
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue" alt="Profile Views" />
+</p>
+
 
 <table>
   <tr>
