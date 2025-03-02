@@ -45,38 +45,50 @@
 
 <h2 align="center">🌍 Get to Know Me</h2>
 
-<table align="center">
-  <tr>
-    <!-- Social Icons (Left Column) -->
-    <td align="center" width="50%">
-      <a href="https://linkedin.com/in/arsum">
-        <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://twitter.com/arsum_nc">
-        <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="50px"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="https://arsumnc.com/">
-        <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="50px"/>
-      </a>
-      &nbsp;&nbsp;
-      <a href="mailto:arsumnadeemch16203@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="50px"/>
-      </a>
-    </td>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left Column: Social Icons -->
+      <td align="center" width="50%">
+        <table>
+          <tr>
+            <td>
+              <a href="https://linkedin.com/in/arsum">
+                <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://twitter.com/arsum_nc">
+                <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://arsumnc.com/">
+                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="mailto:arsumnadeemch16203@gmail.com">
+                <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
 
-    <!-- Fun Facts (Right Column) -->
-    <td align="left" width="50%">
-      <ul>
-        <li>🎵 I play the flute & make music</li>
-        <li>🏔 Love both <b>mountains</b> & <b>beaches</b></li>
-        <li>🎮 Passionate about <b>gaming & AI</b></li>
-        <li>📝 I enjoy writing & storytelling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+      <!-- Right Column: Fun Facts -->
+      <td align="left" width="50%">
+        <ul>
+          <li>🎵 I play the flute & make music</li>
+          <li>🏔 Love both <b>mountains</b> & <b>beaches</b></li>
+          <li>🎮 Passionate about <b>gaming & AI</b></li>
+          <li>📝 I enjoy writing & storytelling</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
