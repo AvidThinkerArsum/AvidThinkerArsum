@@ -115,7 +115,7 @@
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
 
-[![AvidThinkerArsum's 3D Contribution Graph](https://github.com/AvidThinkerArsum/AvidThinkerArsum/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/AvidThinkerArsum)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
