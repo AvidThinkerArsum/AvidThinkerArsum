@@ -64,6 +64,6 @@
 
 ---
 
-<h2 align="center"> 🔥 GitHub Contribution Graph  <\h2>
+<h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
