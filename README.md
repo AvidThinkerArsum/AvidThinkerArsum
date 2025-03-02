@@ -49,33 +49,55 @@
   <table>
     <tr>
       <td align="center" width="30%">
-        <a href="https://linkedin.com/in/arsum">
-          <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
-        </a>
-        <br><br>
-        <a href="https://twitter.com/arsum_nc">
-          <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
-        </a>
-        <br><br>
-        <a href="https://arsumnc.com/">
-          <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
-        </a>
-        <br><br>
-        <a href="mailto:arsumnadeemch16203@gmail.com">
-          <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
-        </a>
+        <table>
+          <tr>
+            <td>
+              <a href="https://linkedin.com/in/arsum">
+                <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://twitter.com/arsum_nc">
+                <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://arsumnc.com/">
+                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
+              </a>
+            </td>
+            <td>
+              <a href="mailto:arsumnadeemch16203@gmail.com">
+                <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
       <td align="left" width="70%">
-        <ul>
-          <li>🎵 I play the flute & make music</li>
-          <li>🏔 Love both <b>mountains</b> & <b>beaches</b></li>
-          <li>🎮 Passionate about <b>gaming & AI</b></li>
-          <li>📝 I enjoy writing & storytelling</li>
-        </ul>
+        <table>
+          <tr>
+            <td><img src="https://cdn-icons-png.flaticon.com/128/2921/2921822.png" width="30px"/></td>
+            <td>🎵 I play the flute & make music</td>
+          </tr>
+          <tr>
+            <td><img src="https://cdn-icons-png.flaticon.com/128/8096/8096714.png" width="30px"/></td>
+            <td>🏔 Love both <b>mountains</b> & <b>beaches</b></td>
+          </tr>
+          <tr>
+            <td><img src="https://cdn-icons-png.flaticon.com/128/869/869869.png" width="30px"/></td>
+            <td>🎮 Passionate about <b>gaming & AI</b></td>
+          </tr>
+          <tr>
+            <td><img src="https://cdn-icons-png.flaticon.com/128/3207/3207130.png" width="30px"/></td>
+            <td>📝 I enjoy writing & storytelling</td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
