@@ -14,7 +14,7 @@
       💡 **Passionate about tech, problem-solving, and content creation**  
     </td>
     <td>
-      <img src="https://i.imgur.com/JzS9Fq5.gif" width="180px"/>
+      ![Funny GIF](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
     </td>
   </tr>
 </table>
