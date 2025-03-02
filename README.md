@@ -48,36 +48,27 @@
 <div align="center">
   <table>
     <tr>
-      <!-- Left Column: Social Icons -->
-      <td align="center" width="50%">
-        <table>
-          <tr>
-            <td>
-              <a href="https://linkedin.com/in/arsum">
-                <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://twitter.com/arsum_nc">
-                <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://arsumnc.com/">
-                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
-              </a>
-            </td>
-            <td>
-              <a href="mailto:arsumnadeemch16203@gmail.com">
-                <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
-              </a>
-            </td>
-          </tr>
-        </table>
+      <!-- Left Column: Social Icons (Now Vertical) -->
+      <td align="center" width="30%">
+        <a href="https://linkedin.com/in/arsum">
+          <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
+        </a>
+        <br><br>
+        <a href="https://twitter.com/arsum_nc">
+          <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
+        </a>
+        <br><br>
+        <a href="https://arsumnc.com/">
+          <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
+        </a>
+        <br><br>
+        <a href="mailto:arsumnadeemch16203@gmail.com">
+          <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
+        </a>
       </td>
 
       <!-- Right Column: Fun Facts -->
-      <td align="left" width="50%">
+      <td align="left" width="70%">
         <ul>
           <li>🎵 I play the flute & make music</li>
           <li>🏔 Love both <b>mountains</b> & <b>beaches</b></li>
@@ -88,6 +79,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
