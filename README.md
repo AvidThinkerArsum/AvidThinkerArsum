@@ -115,7 +115,12 @@
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
 
-![Contribution Snake](https://github.com/AvidThinkerArsum/AvidThinkerArsum/blob/output/github-contribution-grid-snake.svg)
+<h2 align="center">🌆 3D GitHub Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github.com/yourusername/yourrepository/blob/main/skyline.png" width="80%"/>
+</p>
+
 
 
   
