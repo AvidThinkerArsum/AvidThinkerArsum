@@ -43,48 +43,41 @@
 
 ---
 
-<h2 align="center"> 🌍 Connect with Me  </h2>
+<h2 align="center">🌍 Get to Know Me</h2>
 
-<div align="center">
-
-<a href="https://linkedin.com/in/arsum">
-  <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/arsum_nc">
-  <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="50px"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://arsumnc.com/">
-  <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="50px"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:arsumnadeemch16203@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="50px"/>
-</a>
-
-</div>
-
-
----
-
-<table>
+<table align="center">
   <tr>
-    <td>
-      <h3>🎯 Fun Facts</h3>
-      🎵 I play the flute & make music <br>
-      🏔 Love both **mountains & beaches** <br>
-      🎮 Passionate about **gaming & AI** <br>
+    <!-- Social Icons (Left Column) -->
+    <td align="center" width="50%">
+      <a href="https://linkedin.com/in/arsum">
+        <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://twitter.com/arsum_nc">
+        <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="50px"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://arsumnc.com/">
+        <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="50px"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:arsumnadeemch16203@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="50px"/>
+      </a>
     </td>
-    <td>
-      <h3>📚 Featured Projects</h3>
-      🚀 **Brain Tumor Classification** → [GitHub Repo](https://github.com/AvidThinkerArsum/Brain-Tumor-Classification) <br>
-      🖥 **Judge0 AI-Powered IDE** → [GitHub Repo](https://github.com/AvidThinkerArsum/Judge0-IDE) <br>
+
+    <!-- Fun Facts (Right Column) -->
+    <td align="left" width="50%">
+      <ul>
+        <li>🎵 I play the flute & make music</li>
+        <li>🏔 Love both <b>mountains</b> & <b>beaches</b></li>
+        <li>🎮 Passionate about <b>gaming & AI</b></li>
+        <li>📝 I enjoy writing & storytelling</li>
+      </ul>
     </td>
   </tr>
 </table>
 
----
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
   
