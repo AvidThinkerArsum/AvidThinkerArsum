@@ -56,8 +56,8 @@
           </tr>
           <tr>
             <td>
-              <a href="https://twitter.com/arsum_nc">
-                <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
+              <a href="https://instagram.com/arsum_nc">
+               <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="40px"/>
               </a>
             </td>
           </tr>
@@ -77,7 +77,7 @@
           </tr>
           <tr>
             <td>
-              <a href="https://youtube.com/YOUR_CHANNEL">
+              <a href="https://www.youtube.com/@arsum_nc">
                 <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="40px"/>
               </a>
             </td>
