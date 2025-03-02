@@ -10,7 +10,7 @@
     <tr>
       <td>
         <ul>
-          <li>🚀 AI Engineer | Machine Learning Enthusiast | Software Developer</li>
+          <li>🚀 <b>AI Engineer | Machine Learning Enthusiast</b> | Software Developer</li>
           <li>🎓 <b>Senior at Pomona College</b> (CS & Math)</li>
           <li>🛠 <b>Building projects in AI, ML, and Full Stack Development</b></li>
           <li>💡 <b>Passionate about tech, problem-solving, and content creation</b></li>
@@ -23,12 +23,9 @@
   </table>
 </div>
 
-
 ---
 
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
-
-
 
 <table>
   <tr>
@@ -97,9 +94,6 @@
     </tr>
   </table>
 </div>
-
-
-
 
 
 <h2 align="center"> 🔥 GitHub Contribution Graph  </h2>h2>
