@@ -21,7 +21,7 @@
 
 ---
 
-<h2 aligh="center"> ## 📊 GitHub Stats & Achievements  <\h2>
+<h2 aligh="center"> ## 📊 GitHub Stats & Achievements  </h2>
 
 
 
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 aligh="center"> ## 🌍 Connect with Me  <\h2>
+<h2 aligh="center"> ## 🌍 Connect with Me  </h2>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsum)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arsum_n_c)  
