@@ -60,7 +60,7 @@
             </td>
             <td>
               <a href="https://arsumnc.com/">
-                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
+                <img src="Screenshot%202025-02-26%20at%209.09.21%20AM.png" width="40px"/>
               </a>
             </td>
             <td>
