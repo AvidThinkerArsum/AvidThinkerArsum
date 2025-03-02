@@ -5,19 +5,24 @@
 </p>
 
 
-<table>
-  <tr>
-    <td>
-      🚀 AI Engineer | Machine Learning Enthusiast | Software Developer  
-      🎓 **Senior at Pomona College** (CS & Math)  
-      🛠 **Building projects in AI, ML, and Full Stack Development**  
-      💡 **Passionate about tech, problem-solving, and content creation**  
-    </td>
-    <td>
-      <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🚀 AI Engineer | Machine Learning Enthusiast | Software Developer</li>
+          <li>🎓 <b>Senior at Pomona College</b> (CS & Math)</li>
+          <li>🛠 <b>Building projects in AI, ML, and Full Stack Development</b></li>
+          <li>💡 <b>Passionate about tech, problem-solving, and content creation</b></li>
+        </ul>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
