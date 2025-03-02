@@ -117,3 +117,43 @@
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h2 align="center"> 🔥 GitHub Stats </h2>
+
+[![AvidThinkerArsum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AvidThinkerArsum&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+### 📊 GitHub Stats & Streak
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AvidThinkerArsum&show_icons=true&theme=blueberry&count_private=true" width="450px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidThinkerArsum&theme=blueberry" width="450px"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue&style=flat-square" alt="profile views" />
+</p>
+
+<div align="center">
+  
+### 🔗 AvidThinkerArsum (Your Name)
+📍 Claremont, California, US  
+🔹 17 Public Repos  
+🕰️ Joined GitHub 6 Years Ago  
+
+</div>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="100px" />
+</p>
+
