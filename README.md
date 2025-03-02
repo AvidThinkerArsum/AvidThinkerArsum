@@ -53,19 +53,32 @@
                 <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="40px"/>
               </a>
             </td>
+          </tr>
+          <tr>
             <td>
               <a href="https://twitter.com/arsum_nc">
                 <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="40px"/>
               </a>
             </td>
+          </tr>
+          <tr>
             <td>
               <a href="https://arsumnc.com/">
-                <img src="Screenshot%202025-02-26%20at%209.09.21%20AM.png" width="40px"/>
+                <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="40px"/>
               </a>
             </td>
+          </tr>
+          <tr>
             <td>
               <a href="mailto:arsumnadeemch16203@gmail.com">
                 <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40px"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://youtube.com/YOUR_CHANNEL">
+                <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="40px"/>
               </a>
             </td>
           </tr>
