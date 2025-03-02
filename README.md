@@ -44,10 +44,27 @@
 ---
 
 <h2 align="center"> 🌍 Connect with Me  </h2>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsum)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arsum_n_c)  
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arsumnc.com/)  
+
+<div align="center">
+
+<a href="https://linkedin.com/in/arsum">
+  <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/arsum_nc">
+  <img src="https://cdn-icons-png.flaticon.com/128/733/733579.png" width="50px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://arsumnc.com/">
+  <img src="https://cdn-icons-png.flaticon.com/128/888/888843.png" width="50px"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:arsumnadeemch16203@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="50px"/>
+</a>
+
+</div>
+
 
 ---
 
