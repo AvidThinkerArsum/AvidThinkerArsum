@@ -6,3 +6,6 @@
 - 🍿 Career aside, I make music on my flute, do fitness, play tennis, and read out of currciulum.
 - 🍀 Fun fact is I love both the mountains and the beach.
 - 📫 Reach out at arsumnadeemch16203@gmail.com
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue)
