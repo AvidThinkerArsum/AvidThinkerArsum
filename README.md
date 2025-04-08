@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Arsum Nadeem Chaudhary! </h1>
 
-<h2 align="center"> Failing to prepare is preparing to fail </h2>
+<h2 align="center"> Personal Motto: Failing to prepare is preparing to fail </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AvidThinkerArsum&color=blue" alt="Profile Views" />
