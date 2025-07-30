@@ -12,10 +12,10 @@
     <tr>
       <td>
         <ul>
-          <li>🚀 <b>AI Engineer | Machine Learning Enthusiast</b> | Software Developer</li>
-          <li>🎓 <b>Senior at Pomona College</b> (CS & Math)</li>
-          <li>🛠 <b>Building projects in AI, ML, and Full Stack Development</b></li>
-          <li>💡 <b>Passionate about tech, problem-solving, and content creation</b></li>
+          <li>🚀 <b>AI Engineer</li>
+          <li>🎓 <b>Pomona College ' 23</b> (CS & Math)</li>
+          <li>🛠 <b>Building AI Automation Workflows</b></li>
+          <li>💡 <b>Passionate about tech and content creation</b></li>
         </ul>
       </td>
       <td>
