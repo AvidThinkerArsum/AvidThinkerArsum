@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Arsum Nadeem Chaudhary! </h1>
+<h1 align="center">👋 Hi, I'm Arsum Chaudhary! </h1>
 
 <h2 align="center"> Personal Motto: Failing to prepare is preparing to fail </h2>
 
