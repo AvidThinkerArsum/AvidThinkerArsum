@@ -12,7 +12,7 @@
     <tr>
       <td>
         <ul>
-          <li>🚀 <b>AI Engineer</li>
+          <li>🚀 <b>Founding AI Engineer</li>
           <li>🎓 <b>Pomona College'23</b> (CS & Math)</li>
           <li>🛠 <b>Building AI Automation Workflows</b></li>
           <li>💡 <b>Passionate about tech and content creation</b></li>
