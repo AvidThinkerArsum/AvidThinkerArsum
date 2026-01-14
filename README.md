@@ -17,20 +17,20 @@
           <li>🛠 <b>Building AI Automation Workflows</b></li>
           <li>💡 <b>Passionate about tech and content creation</b></li>
         </ul>
-            <div align="left">
-              <a href="https://arsumnc.com/" target="_blank">
+            <div style="margin-left: 0; padding-left: 0; text-align: left;">
+              <a href="https://arsumnc.com/" target="_blank" style="text-decoration: none;">
                 <img src="https://github.com/AvidThinkerArsum/AvidThinkerArsum/blob/main/Screenshot%202025-02-26%20at%209.09.21%20AM.png" width="28px"/>
               </a>
               &nbsp;&nbsp;
-              <a href="https://linkedin.com/in/arsum" target="_blank">
+              <a href="https://linkedin.com/in/arsum" target="_blank" style="text-decoration: none;">
                 <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="28px"/>
               </a>
               &nbsp;&nbsp;
-              <a href="https://instagram.com/arsum_nc" target="_blank">
+              <a href="https://instagram.com/arsum_nc" target="_blank" style="text-decoration: none;">
                 <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="28px"/>
               </a>
               &nbsp;&nbsp;
-              <a href="https://www.youtube.com/@arsum_nc" target="_blank">
+              <a href="https://www.youtube.com/@arsum_nc" target="_blank" style="text-decoration: none;">
                 <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="28px"/>
               </a>
             </div>
