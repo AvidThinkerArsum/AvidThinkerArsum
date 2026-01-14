@@ -27,21 +27,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AvidThinkerArsum&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvidThinkerArsum&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
-
 <h2 align="center">🌍 Get to Know Me</h2>
 
 <div align="center">
