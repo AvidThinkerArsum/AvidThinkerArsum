@@ -10,32 +10,32 @@
   <table>
     <tr>
       <td align="left">
-        <ul>
-          <li>🚀 <b>Founding AI Engineer</b></li>
-          <li>🎓 <b>Pomona College ’23</b> (CS & Math)</li>
-          <li>🛠 <b>Building AI Automation Workflows</b></li>
-          <li>💡 <b>Passionate about tech and content creation</b></li>
-        </ul>
-
-        <div style="margin-top: 6px; text-align: left;">
-          <a href="https://arsumnc.com/" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" width="26px"/>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://linkedin.com/in/arsum" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="26px"/>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://instagram.com/arsum_nc" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="26px"/>
-          </a>
-          &nbsp;&nbsp;
-          <a href="https://www.youtube.com/@arsum_nc" target="_blank" style="text-decoration: none;">
-            <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="26px"/>
-          </a>
+        <div>
+          <ul>
+            <li>🚀 <b>Founding AI Engineer</b></li>
+            <li>🎓 <b>Pomona College ’23</b> (CS & Math)</li>
+            <li>🛠 <b>Building AI Automation Workflows</b></li>
+            <li>💡 <b>Passionate about tech and content creation</b></li>
+          </ul>
+          <div style="margin-top: 6px; text-align: left;">
+            <a href="https://arsumnc.com/" target="_blank" style="text-decoration: none;">
+              <img src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" width="26px"/>
+            </a>
+            &nbsp;&nbsp;
+            <a href="https://linkedin.com/in/arsum" target="_blank" style="text-decoration: none;">
+              <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="26px"/>
+            </a>
+            &nbsp;&nbsp;
+            <a href="https://instagram.com/arsum_nc" target="_blank" style="text-decoration: none;">
+              <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" width="26px"/>
+            </a>
+            &nbsp;&nbsp;
+            <a href="https://www.youtube.com/@arsum_nc" target="_blank" style="text-decoration: none;">
+              <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" width="26px"/>
+            </a>
+          </div>
         </div>
       </td>
-
       <td>
         <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400px"/>
       </td>
