@@ -19,7 +19,7 @@
           </ul>
           <div style="margin-top: 6px; text-align: left;">
             <a href="https://arsumnc.com/" target="_blank" style="text-decoration: none;">
-              <img src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png" width="26px"/>
+              <img src="https://github.com/AvidThinkerArsum/AvidThinkerArsum/blob/main/Screenshot%202025-02-26%20at%209.09.21%20AM.png" width="26px"/>
             </a>
             &nbsp;&nbsp;
             <a href="https://linkedin.com/in/arsum" target="_blank" style="text-decoration: none;">
